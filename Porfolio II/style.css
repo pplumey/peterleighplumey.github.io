@@ -1,4 +1,16 @@
 
+
+.welcome{
+	color: white;
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+	color:white;
+}
+
+
+
+
+
 .body {
 	background-image: url("background1.jpg");
 	margin: -5px;
@@ -32,6 +44,11 @@
 
 }
 
+#subject {
+	height: 400px;
+	widows: 400px;
+}
+
 .footer {
 	text-align: center;
 }
@@ -42,15 +59,77 @@
 	font-family: 'Gloria Hallelujah', cursive;
 }
 
+.contactform {
+	text-align: center;
+	align-items: center
+}
+
 #portfolio {
 	background-image: url("background3.jpg");
 	font-family: 'Gloria Hallelujah', cursive;
 	color: white;
 }
 
-.contactform {
+.myportfolio {
 	text-align: center;
-	align-items: center
+	border: 4px;
+
 }
+
+.art1 {
+	background-image: url("art1.jpg");
+	height: 200px;
+	width: 200px;
+	float: left;
+	padding: 10px;
+	border-radius: 12px;
+	margin: 15px;
+}
+
+.artwork1 {
+	background-image: url("art1.jpg")
+}
+
+
+
+
+
+.art2 {
+	background-image: url("art2.jpg");
+	height: 200px;
+	width: 200px;
+	float: right;
+	padding: 20px;
+	border-radius: 12px;
+	margin: 15px;
+
+
+}
+
+.art3 {
+	background-image: url("art3.jpg");
+	height: 200px;
+	width: 200px;
+	float: right;
+	padding: 10px;
+	border-radius: 12px;
+	margin: 15px;
+	
+
+}
+
+.art4 {
+	background-image: url("art4.jpg");
+	height: 200px;
+	width: 200px;
+	float: left;
+	padding: 10px;
+	border-radius: 12px;
+	margin: 15px;
+}
+
+
+
+
 
 
