@@ -77,55 +77,45 @@
 }
 
 .art1 {
-	background-image: url("art1.jpg");
-	height: 200px;
-	width: 200px;
 	float: left;
-	padding: 10px;
-	border-radius: 12px;
-	margin: 15px;
-}
-
-.artwork1 {
-	background-image: url("art1.jpg")
-}
-
-
-
-
-
-.art2 {
-	background-image: url("art2.jpg");
-	height: 200px;
-	width: 200px;
-	float: right;
 	padding: 20px;
 	border-radius: 12px;
 	margin: 15px;
 
+	
+}
+
+
+   
+
+.art2 {
+	float: left;
+	padding: 20px;
+	border-radius: 12px;
+	margin: 15px;
+	
+
 
 }
 
+
+
 .art3 {
-	background-image: url("art3.jpg");
-	height: 200px;
-	width: 200px;
 	float: right;
-	padding: 10px;
+	padding: 20px;
 	border-radius: 12px;
 	margin: 15px;
+	
 	
 
 }
 
 .art4 {
-	background-image: url("art4.jpg");
-	height: 200px;
-	width: 200px;
-	float: left;
-	padding: 10px;
+	float: right;
+	padding: 20px;
 	border-radius: 12px;
 	margin: 15px;
+	
 }
 
 
